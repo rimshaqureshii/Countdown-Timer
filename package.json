@@ -1,0 +1,20 @@
+{
+  "name": "rimsha_qureshi_project_countdown_timer",
+  "version": "1.0.0",
+  "description": " \"Countdown to any moment with precision and style using our intuitive and customizable timer\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "countdown_timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
